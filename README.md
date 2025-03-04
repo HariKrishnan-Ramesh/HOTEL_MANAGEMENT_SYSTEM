@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Hari Krishnan Ramesh - [harikrishnaramesh09@gmail.com].
+[Hari Krishnan Ramesh](mailto:harikrishnaramesh777@gmail.com)
 
 ---
 
