@@ -32,9 +32,6 @@ This project implements a Hotel Management System designed to streamline operati
 *   **Billing and Payments:** Generates invoices, processes payments, and manages financial records.
 *   **Reporting and Analytics:** Provides reports on key metrics like occupancy rates, revenue, and customer satisfaction.
 *   **User Authentication and Authorization:** Secure user login with different access levels based on roles.
-*   **[Add Specific Feature 8]:** e.g., Online booking portal for customers.
-*   **[Add Specific Feature 9]:** e.g., Integration with payment gateways.
-*   **[Add Specific Feature 10]:** e.g., Support for multiple hotel branches.
 
 ## Technologies Used
 
@@ -42,10 +39,6 @@ This project implements a Hotel Management System designed to streamline operati
 *   **Database:** [e.g., MySQL, PostgreSQL, MongoDB, SQLite]
 *   **Backend Framework:** [e.g., Spring Boot, Django, Laravel, ASP.NET]
 *   **Frontend Framework:** [e.g., React, Angular, Vue.js, HTML, CSS, JavaScript]
-*   **[Add Technology 5]:** e.g., ORM (Hibernate, SQLAlchemy, Entity Framework)
-*   **[Add Technology 6]:** e.g., Web server (Apache, Nginx)
-*   **[Add Technology 7]:** e.g., Build tools (Maven, Gradle, npm)
-*   **Operating System:** [If limited to an OS]
 
 ## Setup and Installation
 
