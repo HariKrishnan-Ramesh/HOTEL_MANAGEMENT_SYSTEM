@@ -7,8 +7,6 @@ A comprehensive Hotel Management System built using [mention technologies used].
 [![Open Issues](https://img.shields.io/github/issues/HariKrishnan-Ramesh/HOTEL_MANAGEMENT_SYSTEM.git)](https://github.com/HariKrishnan-Ramesh/HOTEL_MANAGEMENT_SYSTEM.git/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/HariKrishnan-Ramesh/HOTEL_MANAGEMENT_SYSTEM.git)](https://github.com/HariKrishnan-Ramesh/HOTEL_MANAGEMENT_SYSTEM.git/issues?q=is%3Aissue+is%3Aclosed)
 
-<!-- Optionally, a short demo GIF or image here -->
-<!-- ![Hotel Management System Demo](path/to/demo.gif) -->
 
 ## Table of Contents
 
